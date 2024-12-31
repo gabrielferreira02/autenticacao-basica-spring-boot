@@ -16,6 +16,12 @@ Acesse o diretório criado
   ```bash
   cd autenticacao-basica-spring-boot
   ```
+
+No terminal utilize o seguinte comando para gerar o arquivo .jar
+  ```bash
+  mvn clean install
+  ```
+
 Para iniciar o projeto possuem duas maneiras:
   - Inicializar pela propria IDE que irá utilizar ou inicializar com a imagem docker
 
