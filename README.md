@@ -28,3 +28,10 @@ Agora basta inicializar um container com a imagem criada
   ```bash
   docker run -p 8080:8080 <nome-da-imagem>:<tag>
   ```
+
+Agora com a aplicação inicializada, no projeto tem uma pasta postman com um arquivo json
+- Abra o postman
+- Aperte em <strong>import</strong>
+- Selecione o arquivo json
+
+Com a collection importada já tem endpoints com dados de request para testar a aplicação
